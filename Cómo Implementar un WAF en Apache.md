@@ -167,7 +167,7 @@
 
 </html>
 
-# PÁGINA DE ERROR 43 PERSONALIZADA
+# PÁGINA DE ERROR 403 PERSONALIZADA
 
 <!DOCTYPE html>
 <html lang="es">
