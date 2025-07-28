@@ -1,5 +1,6 @@
 # HTML utilizado en el vídeo de prueba:
 
+```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -166,9 +167,14 @@
 </body>
 
 </html>
+``` 
+
+
+
 
 # PÁGINA DE ERROR 403 PERSONALIZADA
 
+```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -262,4 +268,5 @@
   </div>
 </body>
 </html>
+``` 
 
